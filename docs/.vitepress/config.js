@@ -2,6 +2,7 @@ module.exports = {
 	title: 'Learn Pinia',
 	description: 'Learn Pinia State Management by building a Todo App',
 	lang: 'en-US',
+	base: '/learn-pinia/',
 	themeConfig: {
 		markdown: {
 			lineNumbers: true
